@@ -7,8 +7,8 @@ function App() {
 				<h1>Object Detector</h1>
 			</header>
 			<main>
-				{/* Add object detection UI here */}
-				<p>Upload an image or use your webcam to detect objects.</p>
+				<p>Upload an image or use webcam</p>
+                <botton id="btn1">Upload Image</botton><botton id="btn2">Use Webcam</botton>
 			</main>
 		</div>
 	);
